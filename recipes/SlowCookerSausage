@@ -1,0 +1,51 @@
+<!-- The first recipe test, in the future both name and content must be genered automatically-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crockpot Italian chicken</title>
+</head>
+<body>
+    <h1>
+        Crockpot Italian Chicken
+    </h1>
+
+    <img src="./resources/CrackpotChicken" alt="CrackpotChicken image">
+
+    <h2>Description</h2>
+
+    <p>
+        This crockpot mac and cheese recipe is creamy, comforting, and takes just moments to assemble in a slow cooker. 
+        <br>
+        Great for large family gatherings and to take to potluck dinners. It's always a big hit!
+    </p>
+
+    <h2>ingredients</h2>
+
+    <ul>
+        <li>1 (16 ounce) bottle Italian dressing (such as Olive Garden℠ Signature Italian Dressing)</li>
+        <li>1/4 cup grated Parmesan cheese</li>
+        <li>4 boneless skinless chicken breasts</li>
+    </ul>
+
+    <h2>Steps</h2>
+
+    <ol>
+        <li>
+            Stir Italian dressing and Parmesan cheese together in a bowl. 
+        </li>
+        <li>
+            Place chicken in a slow cooker, and pour dressing mixture over chicken. 
+            <br>
+            Cover and cook on Low until chicken is tender, no longer pink in the center
+            , and the juices run clear, about 8 hours. 
+        </li>
+
+
+
+    </ol>
+
+</body>
+</html>
